@@ -2,14 +2,18 @@
    <img alt="Plataforma de Estudos" src="https://github.com/rogersene/plataformaEstudosProffy/blob/master/public/images/logo.svg">
 </h1>
 
+   <p align="center">
+      <img alt="proffy-2" src="https://github.com/rogersene/plataformaEstudosProffy/blob/master/public/images/landing.svg">
+   </p>
+
+
 
   <a href="#-tecnologias">Tecnologias :sparkles:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
   <a href="#-projeto">Projeto  :computer:</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
-  <a href="#-layout">Layout :flower_playing_cards:</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout :flower_playing_cards:</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp 
   
- <img alt="proffy-2" src="https://github.com/rogersene/plataformaEstudosProffy/blob/master/public/images/landing.svg">
- 
-
+  
+  
 
 <br>
 
