@@ -1,11 +1,13 @@
 <h1 align="center">
-   <img alt="logo" src="https://github.com/rogersene/Dev-Finance-/blob/main/assets/logo.svg">
+   <img alt="Plataforma de Estudos" src="https://github.com/rogersene/plataformaEstudosProffy/blob/master/public/images/logo.svg">
 </h1>
 
 
   <a href="#-tecnologias">Tecnologias :sparkles:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
   <a href="#-projeto">Projeto  :computer:</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
-  <a href="#-layout">Layout :flower_playing_cards:</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;           
+  <a href="#-layout">Layout :flower_playing_cards:</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  
+ <img alt="proffy-2" src="https://github.com/rogersene/plataformaEstudosProffy/blob/master/public/images/landing.svg">
  
 
 
@@ -14,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="https://github.com/rogersene/Dev-Finance/blob/main/assets/devfinances.png" width="100%">
+  <img alt="proffy" src="https://github.com/rogersene/plataformaEstudosProffy/blob/master/public/images/mockup.png" width="100%">
 </p>
 
 
