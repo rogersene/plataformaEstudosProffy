@@ -3,14 +3,14 @@
 </h1>
 
    <p align="center">
-      <img alt="proffy-2" src="https://github.com/rogersene/plataformaEstudosProffy/blob/master/public/images/landing.svg">
+      <img alt="proffy-2" src="https://github.com/rogersene/plataformaEstudosProffy/blob/master/public/images/landing.svg" width="30%">
    </p>
 
 
 
   <a href="#-tecnologias">Tecnologias :sparkles:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
   <a href="#-projeto">Projeto  :computer:</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout :flower_playing_cards:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   
   
