@@ -32,6 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+- Node.js
+- Express
+- Sqlite
 
 ## 💻 Projeto
 - Projeto desenvolvido durante semana NEXT LEVEL WEEK da Rocketseat.
